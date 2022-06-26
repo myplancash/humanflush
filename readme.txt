@@ -1,4 +1,4 @@
-![Humanflush-preview](https://user-images.githubusercontent.com/64751892/175797613-28560168-69c7-4963-9f2c-5fd60f3a6cf4.png)
+![humanflush](https://user-images.githubusercontent.com/64751892/175818197-d7bca249-1362-4d81-8823-122d7c1aaccf.gif)
 
 ==================================================================================================
 
